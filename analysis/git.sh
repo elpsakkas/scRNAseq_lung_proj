@@ -4,4 +4,4 @@
 
 git add .
 git commit -m 'edit file'
-git push origina master
+git push origin master
