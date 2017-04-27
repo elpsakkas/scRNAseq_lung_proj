@@ -3,5 +3,5 @@
 
 
 git add .
-git commit -m 'edit file'
+git commit -m 'add script'
 git push origin master
